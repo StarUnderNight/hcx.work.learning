@@ -1,4 +1,4 @@
-package hcx.work.learning.lintcode;
+package hcx.work.learning.leetcode;
 
 public class LT625 {
 
