@@ -16,5 +16,7 @@ public class Test {
 	while (iterator.hasNext()) {
 	    System.out.println(iterator.next());
 	}
+	"a".equals(null);
+	java.security.Security.setProperty("networkaddress.cache.ttl", "10");
     }
 }
